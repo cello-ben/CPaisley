@@ -15,6 +15,7 @@ Usage example:
       
       printf("Hello!\n");
       printf("Second line!\n");
+      //Very important, so that the terminal window doesn't get messed up:
       cp_reset();
       
       //Clear the terminal
