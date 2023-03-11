@@ -1,6 +1,7 @@
 # CPaisley
 Usage example:
-
+    
+    #include <stdio.h>
     #include "CPaisley.h"
   
     int main(int argc, char **argv) {
