@@ -41,7 +41,7 @@ static inline void cp_set_foreground_color(char *fg_color) {
     printf("%s", fg_color);
 }
 
-static inline void cp_set_backround_color(char *bg_color) {
+static inline void cp_set_background_color(char *bg_color) {
     printf("%s", bg_color);
 }
 
